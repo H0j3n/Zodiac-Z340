@@ -26,3 +26,9 @@ Make sure to split it with ";"
 ```python
 python zdecoder.py "LNIESOYIHCAFITSIE;TAEDSTTWONTHNUPHC;..."
 ```
+
+# References
+
+[1] http://zodiackillerciphers.com/
+
+[2] https://www.dcode.fr/zodiac-killer-cipher
