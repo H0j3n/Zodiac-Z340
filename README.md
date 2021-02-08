@@ -9,17 +9,17 @@ This is just an example that I want to try for my personal interest.
 
 # How to use?
 
-For now this only support 17x18 (column x row)
+For now this only support 17x18 (column x row). It will generate an image using fonts for Z340.
 
 * Encode
 
 Make sure that the sentence consists of 306 characters not including spaces.
 
 ```python
-python zencoder.py "Hi...."
+python zencoder.py "Hi My name...."
 ```
 
-* Decode
+* Decode (Coming Soon)
 
 Make sure to split it with ";"
 
