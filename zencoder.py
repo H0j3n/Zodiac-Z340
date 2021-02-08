@@ -109,6 +109,7 @@ print(dcode2)
 fontchange2 = font_change(dcode2)
 
 print("\n[Full Dcode]\n")
+print("Please Use it in here : https://www.dcode.fr/zodiac-killer-cipher\n")
 fulldcode = dcode1 + dcode2
 print(fulldcode)
 
